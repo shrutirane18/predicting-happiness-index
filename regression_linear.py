@@ -1,9 +1,4 @@
-"""
-An implementation of linear regression from sklearn in order to predict the
-happiness scores of countries
-Author – Nisha Choudhary
-Date   – Saturday, December 12, 2020
-"""
+
 
 # model implementation from scikit-learn
 from sklearn.linear_model import LinearRegression

@@ -1,8 +1,4 @@
-"""
-Use linear regression in order to measure overall happiness for over 150 countries
-Author – Nisha Choudhary
-Date   – Sunday, December 6, 2020
-"""
+
 
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
